@@ -4,4 +4,4 @@ A list app based on https://yourlogicalfallacyis.com/. Built with the help of a 
 
 ###Usage
 
-Notice more bad argumants and debate better, a lot of 
+Notice more bad argumants and debate better, list of logical fallacies at your fingertips on your smart phone.
